@@ -1,2 +1,4 @@
 # fun_with_folds
-Haskell fun
+
+I am relearning everything, from scratch, using folds.
+
